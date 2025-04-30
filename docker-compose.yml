@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:8080"  # Порт Vite (фронтенд)
+    volumes:
+      - ./frontend:/app  # Чтобы код обновлялся без перезапуска
+      - /app/node_modules
+
+  backend:
+    build: ./backend
+    ports:
+      - "3000:3000"  # Порт NestJS
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
