@@ -5,6 +5,11 @@
 ## 🎥 Демонстрация
 
 
+
+https://github.com/user-attachments/assets/e60b4abb-547d-42e9-bb7f-b67f9fd5172b
+
+
+
 ## ✨ Особенности
 
 - 📡 Парсинг данных игр Roblox через API
