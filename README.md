@@ -110,7 +110,7 @@ npm run dev
 
 ## 📜 Лицензия
 
-MIT © [Ваше Имя](https://github.com/danielgreen229)
+MIT © [danielgreen](https://github.com/danielgreen229)
 
 ---
 
